@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Roshan Raghupathy",
+      "authorEmail": "thisisroshansmail@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
